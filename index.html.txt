@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moja Wizytówka</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Twoje Imię i Nazwisko</h1>
+        <p>Web Developer | Freelancer</p>
+    </header>
+
+    <section id="about">
+        <h2>O mnie</h2>
+        <p>Cześć! Tworzę nowoczesne i responsywne strony internetowe. Skontaktuj się ze mną!</p>
+    </section>
+
+    <section id="contact">
+        <h2>Kontakt</h2>
+        <p>Email: <a href="mailto:twojemail@example.com">twojemail@example.com</a></p>
+        <p>Telefon: 123-456-789</p>
+    </section>
+
+</body>
+</html>
